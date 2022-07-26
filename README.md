@@ -1,2 +1,4 @@
 # Main Website
 This is my websites code this is also the main page of my website also known as "backroomsclasses.hopto.org" its still under construction
+Just keep in mind that images would'nt work because there is no folder containing that. To download just click on the link i supplied here
+[GitHub Pages](https://pages.github.com/)
